@@ -1,4 +1,6 @@
-# Hi, I'm Mugabe Joseph 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F6E5C,100:2F6B5E&height=200&section=header&text=Mugabe%20Joseph&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Network%20Administrator&descAlignY=55&descSize=18&descColor=ffffff)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F6B5E&center=true&vCenter=true&width=600&lines=Studying+for+CompTIA+A%2B%2C+CCNA+next;Built+GateLink+as+an+IT+Intern+at+UCAA;Networking+%7C+Cloud+%7C+Full-Stack+Dev)
 
 Computer Science student at Mbarara University of Science & Technology, building toward a career in network administration.
 
@@ -20,7 +22,12 @@ Computer Science student at Mbarara University of Science & Technology, building
 
 ## Tech stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Skills](https://skillicons.dev/icons?i=react,nodejs,flask,postgres,aws,linux,php,git)
+
+## GitHub stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=josephmugabe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Streak](https://streak-stats.demolab.com/?user=josephmugabe&theme=tokyonight&hide_border=true)
 
 ## Elsewhere
 
@@ -29,3 +36,5 @@ Computer Science student at Mbarara University of Science & Technology, building
 💬 LinkedIn: [mugabe-joseph](https://www.linkedin.com/in/mugabe-joseph-67b0a9317/)
 
 ✉️ Email: 2024bcs197@std.must.ac.ug
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F6E5C,100:2F6B5E&height=100&section=footer)
